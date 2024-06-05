@@ -1,6 +1,6 @@
-Nome: João Vitor Oliveira de Deus
-Turma: D3
-Matéria: Estruturas de Dados I
+Nome: João Vitor Oliveira de Deus  
+Turma: D3  
+Matéria: Estruturas de Dados I  
 
 ### Exercício 1: Criação do DataFrame
 - Importamos a biblioteca pandas.
