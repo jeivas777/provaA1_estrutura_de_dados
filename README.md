@@ -1,5 +1,5 @@
-Nome: João Vitor Oliveira de Deus
-Turma: D3
+Nome: João Vitor Oliveira de Deus\n
+Turma: D3\n
 Matéria: Estruturas de Dados I
 
 ### Exercício 1: Criação do DataFrame
