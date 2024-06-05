@@ -1,3 +1,7 @@
+Nome: João Vitor Oliveira de Deus
+Turma: D3
+Matéria: Estruturas de Dados I
+
 ### Exercício 1: Criação do DataFrame
 - Importamos a biblioteca pandas.
 - Criamos um DataFrame com dados de filmes usando um dicionário Python, em que o valor de cada chave do dicionário é uma lista de valores.
