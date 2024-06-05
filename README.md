@@ -1,3 +1,8 @@
+### Exercício 1: Criação do DataFrame
+- Criamos um DataFrame com dados de filmes usando um dicionário Python.
+- O dicionário contém informações sobre nome do filme, nome original, nome do diretor, bilheteria, orçamento, ano de lançamento e gênero.
+- Utilizamos a função `pd.DataFrame()` para criar o DataFrame a partir do dicionário.
+
 ### Exercício 2: Número de linhas e colunas
 - Utilizamos a propriedade `shape` do DataFrame para obter o número de linhas e colunas.
 - Imprimimos o número de linhas e colunas na tela.
