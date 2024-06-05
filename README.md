@@ -1,5 +1,6 @@
 ### Exercício 1: Criação do DataFrame
-- Criamos um DataFrame com dados de filmes usando um dicionário Python.
+- Importamos a biblioteca pandas.
+- Criamos um DataFrame com dados de filmes usando um dicionário Python, em que o valor de cada chave do dicionário é uma lista de valores.
 - O dicionário contém informações sobre nome do filme, nome original, nome do diretor, bilheteria, orçamento, ano de lançamento e gênero.
 - Utilizamos a função `pd.DataFrame()` para criar o DataFrame a partir do dicionário.
 
