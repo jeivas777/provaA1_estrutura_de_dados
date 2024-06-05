@@ -40,3 +40,5 @@ Matéria: Estruturas de Dados I
 ### Exercício 9: Mostrando na tela apenas as 2 primeiras colunas
 - Utilizamos o método `[]` do DataFrame para selecionar apenas as 2 primeiras colunas.
 - Imprimimos as colunas selecionadas na tela.
+
+### Exercício 10: Relatório da atividade
